@@ -1,2 +1,2 @@
-# exercism
-Repositório destinado à verificar 
+# exercises
+Repositório destinado a exercícios.
