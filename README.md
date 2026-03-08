@@ -1,2 +1,6 @@
 # exercises
-Repositório destinado a exercícios.
+
+Repository intended for exercises.
+
+~ Repositório destinado a exercícios.
+
